@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teams>
+  <team>
+    <Country>Spanish</Country>
+    <Teamname>Real Madrid</Teamname>
+    <Member Age="30" Sex="Male"/>
+  </team>
+</teams>

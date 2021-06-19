@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Teams (Team*)>
+<!ELEMENT Team (Teamname,Country,Member+)>
+<!ELEMENT Teamname (#PCDATA)>
+<!ELEMENT Country EMPTY>
+<!ATTLIST Country name CDATA #REQUIRED>
+<!ELEMENT Member (Tel|Email)+>
+<!ELEMENT Tel (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>

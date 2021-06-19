@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<userinfo>
+   <users>
+      <userid>1</userid>
+      <username>张三</username>
+      <password>1234456</password>
+   </users>
+   <users>
+      <userid>2</userid>
+      <username>李四</username>
+      <password>123456</password>
+   </users>
+   <users>
+      <userid>3</userid>
+      <username>小王</username>
+      <password>123456</password>
+   </users>
+   <users>
+      <userid>4</userid>
+      <username>小刘</username>
+      <password>12345566</password>
+   </users>
+   <users>
+      <userid>5</userid>
+      <username>小红</username>
+      <password>123456</password>
+   </users>
+</userinfo>
